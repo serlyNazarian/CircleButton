@@ -1,0 +1,21 @@
+.main-page {
+  display: flex;
+  width: fit-content;
+  height: fit-content;
+  flex-direction: row;
+  margin-top: 15px;
+}
+
+.my-div {
+  border-radius: 50px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  text-align: center;
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  color: white;
+  font-size: 30px;
+  margin: 20px;
+}
